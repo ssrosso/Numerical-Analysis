@@ -1,9 +1,6 @@
-clc;
-clear;
 #{
-Este es el script principal, que articula las funciones definidas en
-los otros '.m', que básicamente guarda en la variable 'pol' el polinomio
-a generar en generar_polinomio.m
+Este es el script principal que articula las funciones definidas en
+los otros '.m'
 #}
 
 do 
